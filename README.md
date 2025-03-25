@@ -12,7 +12,13 @@ A real-time voice translation web application that converts Japanese speech to t
 
 ## Demo
 
+### Screenshot
 ![](2025-03-25-17-13-49.png)
+
+### Video
+
+https://x.com/matsubokkuri/status/1877171537821958222
+
 
 ## Technologies Used
 
