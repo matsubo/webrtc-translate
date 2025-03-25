@@ -46,7 +46,7 @@ A real-time voice translation web application that converts Japanese speech to t
    npm install
    ```
 
-3. Create a `.env` file in the root directory with your Google Translate API key:
+3. Copy from .env.sample to `.env` file in the root directory with your Google Translate API key:
    ```
    VITE_GOOGLE_TRANSLATE_API_KEY=your_api_key_here
    ```
