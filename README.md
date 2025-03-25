@@ -2,6 +2,7 @@
 
 A real-time voice translation web application that converts Japanese speech to text and translates it to multiple languages instantly.
 
+TODO: Did not work on Brave, macOS. Worked on Safari, macOS.
 
 ## Features
 
