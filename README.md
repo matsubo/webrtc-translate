@@ -2,7 +2,6 @@
 
 A real-time voice translation web application that converts Japanese speech to text and translates it to multiple languages instantly.
 
-![](2025-03-25-17-13-49.png)
 
 ## Features
 
@@ -13,8 +12,7 @@ A real-time voice translation web application that converts Japanese speech to t
 
 ## Demo
 
-![Demo Screenshot](https://via.placeholder.com/800x450.png?text=WebRTC+Translate+Demo)
-(Replace with actual screenshot of your application)
+![](2025-03-25-17-13-49.png)
 
 ## Technologies Used
 
